@@ -1,0 +1,105 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.pdb
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.xml
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Login.resources
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Resources.resources
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Quotation.resources
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Registration.resources
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.vbproj.GenerateResource.Cache
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.exe
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.xml
+F:\BTEC L3\2014-2015\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.pdb
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.exe
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.xml
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.pdb
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.exe
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.xml
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.pdb
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.pdb
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.xml
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Login.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Resources.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Quotation.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Registration.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.vbproj.GenerateResource.Cache
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.exe
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.xml
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.pdb
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Help_Form.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Common_issues.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.pdb
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.xml
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Common_issues.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Help_Form.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Login.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Resources.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Quotation.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Registration.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Samples of VB\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.vbproj.GenerateResource.Cache
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.exe
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.xml
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.pdb
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.pdb
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.xml
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Common_issues.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Help_Form.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Login.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Resources.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Quotation.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Registration.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.vbproj.GenerateResource.Cache
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.exe
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.xml
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.pdb
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.pdb
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.xml
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Common_issues.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Help_Form.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Login.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Resources.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Quotation.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Registration.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.vbproj.GenerateResource.Cache
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\MyDatabase#1.sdf
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Data.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Form1.resources
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.exe
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.xml
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.pdb
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\MyDatabase#1.sdf
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.exe
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.pdb
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\bin\Debug\Bespoke Program.xml
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Common_issues.resources
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Data.resources
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Form1.resources
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Help_Form.resources
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Login.resources
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Resources.resources
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Quotation.resources
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke_Program.Registration.resources
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 11\Assignment 3\Bespoke Program\Bespoke Program\obj\Debug\Bespoke Program.vbproj.GenerateResource.Cache
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\Bespoke Program - Data Record\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\Bespoke Program - Data Record\Bespoke Program\obj\Debug\Bespoke Program.exe
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\Bespoke Program - Data Record\Bespoke Program\obj\Debug\Bespoke Program.xml
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\Bespoke Program - Data Record\Bespoke Program\obj\Debug\Bespoke Program.pdb
+\\fs1\shd\TongX\My Documents\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\Bespoke Program - Data Record\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+\\fs1\shd\TongX\My Documents\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\Bespoke Program - Data Record\Bespoke Program\obj\Debug\Bespoke Program.exe
+\\fs1\shd\TongX\My Documents\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\Bespoke Program - Data Record\Bespoke Program\obj\Debug\Bespoke Program.xml
+\\fs1\shd\TongX\My Documents\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\Bespoke Program - Data Record\Bespoke Program\obj\Debug\Bespoke Program.pdb
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\Bespoke Program - Data Record\Bespoke Program\bin\Debug\Bespoke Program.exe.config
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\Bespoke Program - Data Record\Bespoke Program\obj\Debug\Bespoke Program.exe
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\Bespoke Program - Data Record\Bespoke Program\obj\Debug\Bespoke Program.xml
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\Bespoke Program - Data Record\Bespoke Program\obj\Debug\Bespoke Program.pdb
